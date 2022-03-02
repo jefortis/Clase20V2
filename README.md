@@ -1,2 +1,1 @@
-# Clase20V2
-Clase20V2
+# PROC20_AM_Materia_Repetitiva
